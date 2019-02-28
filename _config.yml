@@ -269,6 +269,6 @@ asciidoctor:
     coderay-css: style
     icons: font
 
-header: no 
-tilte: unsplash_eagle.jpg
+header:
+  image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"
 
