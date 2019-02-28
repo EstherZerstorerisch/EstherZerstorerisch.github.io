@@ -268,3 +268,7 @@ asciidoctor:
     source-highlighter: coderay
     coderay-css: style
     icons: font
+
+header: no 
+tilte: unsplash_eagle.jpg
+
