@@ -1,7 +1,7 @@
 
 ---
 layout: post
-title:  "Fisrt"
+title:  "Isekai Mahou Wa Okuruteru"
 date:   2019-03-01 19:46
 categories: [light novel]
 comments: true
