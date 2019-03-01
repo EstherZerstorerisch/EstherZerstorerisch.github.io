@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Isekai Mahou Wa Okuruteru chap 3"
+title: "Isekai Mahou Wa Okuruteru Vol 5 chap 3"
 categories: [light novel]
 comments: true
 ---

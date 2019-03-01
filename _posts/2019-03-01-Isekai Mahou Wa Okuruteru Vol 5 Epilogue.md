@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Isekai Mahou Wa Okuruteru Epilogue"
+title: "Isekai Mahou Wa Okuruteru Vol 5 Epilogue"
 excerpt: ""
 categories: [light novel]
 comments: true

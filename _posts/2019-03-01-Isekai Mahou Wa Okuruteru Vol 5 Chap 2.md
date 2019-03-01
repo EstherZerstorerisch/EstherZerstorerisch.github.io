@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Isekai Mahou Wa Okuruteru chap 2"
+title:  "Isekai Mahou Wa Okuruteru  Vol 5 chap 2"
 date:   2019-03-01 20:37
 categories: [light novel]
 comments: true
