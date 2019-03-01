@@ -3,8 +3,11 @@
 layout: post
 title:  "Fisrt"
 date:   2019-03-01 19:46
-categories: [Light Novel]
+categories: [light novel]
 comments: true
+image: 
+https://www.google.com/search?q=Isekai+Mahou+wa+Okureteru!+(LN)+vol5&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjvqJu6hOHgAhWrw4sBHWIGD3AQ_AUIDigB&biw=1366&bih=624#imgrc=t_k1KwblpFkhbM:
+
 ---
 
 Chapter 2: Relation of the Summoned
