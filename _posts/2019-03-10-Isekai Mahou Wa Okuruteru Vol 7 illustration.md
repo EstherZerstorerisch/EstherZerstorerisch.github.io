@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Isekai Mahou Wa Okuruteru Vol 7 Prologue"
+title: "Isekai Mahou Wa Okuruteru Vol 7 Illustrations"
 excerpt: ""
 categories: [light novel]
 comments: true
